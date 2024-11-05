@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Costal Web X</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Costal Web X</h1>
+        
+        <!-- Search Bar and Execute Button Container -->
+        <div class="search-bar-container">
+            <input type="text" id="commandInput" placeholder="Type your command or search..." autofocus>
+            <button id="executeCommand">Execute</button>
+        </div>
+        
+        <div id="output"></div>
+        <div id="searchResults" class="search-results"></div>
+    </div>
+
+    <!-- Modal for Register Page -->
+    <div id="registerModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Register Page</h2>
+            <input type="text" id="pageName" placeholder="Enter page name">
+            <textarea id="htmlCode" placeholder="Write your HTML code here..."></textarea>
+            <input type="text" id="domainExtension" placeholder="Enter domain extension (e.g., .com, .net, .org)" value=".io">
+            <div class="button-container">
+                <button id="createPage">Create</button>
+                <button id="publishPage">Publish</button>
+                <button id="previewPage">Preview</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+  </html>
