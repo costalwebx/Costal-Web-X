@@ -39,6 +39,12 @@ Welcome to **Costal Web X**, a simple web application designed for creating, sto
 - CSS
 - JavaScript
 
+## Powerful Commands 
+
+- /napture: make your web page secure 
+- /fast: make your web page faster 
+
+
 ## Contribution
 
 This project is owned and maintained by **Calestial Ashley**. If you'd like to contribute, please fork the repository and submit a pull request.
