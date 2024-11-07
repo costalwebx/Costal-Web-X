@@ -46,7 +46,7 @@ Welcome to **Costal Web X**, a simple web application designed for creating, sto
 
 # Bot
 We have a Official Discord Bot based on Costal Web X it's designed for Asist you 
-You can add the bot to your seever by clicking this url: [Bot Invite Link](ttps://discord.com/oauth2/authorize?client_id=1302298319426420777&permissions=8&integration_type=0&scope=bot)
+You can add the bot to your seever by clicking this url: [Bot Invite Link](https://discord.com/oauth2/authorize?client_id=1302298319426420777&permissions=8&integration_type=0&scope=bot)
 
 ## Contribution
 
